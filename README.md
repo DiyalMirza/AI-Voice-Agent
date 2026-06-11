@@ -52,6 +52,7 @@ AI-Voice-Agent/
 📥 Clone the Repository
 git clone https://github.com/DiyalMirza/AI-Voice-Agent.git
 cd AI-Voice-Agent
+
 📦 Install Dependencies
 uv sync
 

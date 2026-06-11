@@ -48,9 +48,8 @@ AI-Voice-Agent/
 
 ## 🚀 Installation
 
-### 📥 Clone the Repository
-
 ```bash
+📥 Clone the Repository
 git clone https://github.com/DiyalMirza/AI-Voice-Agent.git
 cd AI-Voice-Agent
 📦 Install Dependencies
